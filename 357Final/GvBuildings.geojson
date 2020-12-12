@@ -1,0 +1,81 @@
+{
+  "type": "Feature",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Cook Carillon Clock Tower",
+        "latitude": "42.963425,
+        "description": "The Cook Carillon Tower is a 10-story-tall carillon-clock tower located in the center of the Grand Valley State University-Allendale campus in Allendale, Michigan. The tower and carillon were built in 1994 with help from generous donations by Peter C. and Pat Cook for which it is named. The tower is considered to be a major icon of both the university and its campus and creates a notable central focal point on the Allendale campus.   The 48 carillon bells are cast of bronze by the Royal Eijsbouts Bellfounders and Tower-clock Makers of the Netherlands. The largest bell weighs around 3,000 pounds and the smallest at just 14 pounds with sizes ranging from 51.7 to 7.5 inches. The tower itself is made of brick and stone",
+        "thumb": null,
+        "credit": "Peter and Pat C. Cook",
+        "creator": "A lot of people actually",
+        "longitude": "85.888595",
+        "imagefile": "https://en.wikipedia.org/wiki/Cook_Carillon_Tower#/media/File:Cook_Carillon_Tower.JPG",
+        "date": "1994",
+        "title": "Cook Carillon Clock Tower",
+        "access": "Public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.963425,
+          85.888595
+        ]
+      }
+    }
+    
+    {
+      "type": "Feature",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "location": "Qdoba",
+            "latitude": "42.96305,
+            "description": "Purveryors of delicious Mexican eats",
+            "thumb": null,
+            "credit": "Burrito Makers Everywhere",
+            "creator": "A lot of people actually",
+            "longitude": "85.89212",
+            "imagefile": "https://en.wikipedia.org/wiki/Cook_Carillon_Tower#/media/File:Cook_Carillon_Tower.JPG",
+            "date": "1994",
+            "title": "Happiest Place on Campus",
+            "access": "Public"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              42.96305,
+              85.89212
+            ]
+          }
+        }
+        
+        
+        "type": "Feature",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "location": "Harry's One Stop",
+              "latitude": "42.96305,
+              "description": "Purveryors of delicious alcohol",
+              "thumb": null,
+              "credit": "Burrito Makers Everywhere",
+              "creator": "A lot of people actually",
+              "longitude": "85.89212",
+              "imagefile": "https://en.wikipedia.org/wiki/Cook_Carillon_Tower#/media/File:Cook_Carillon_Tower.JPG",
+              "date": "1994",
+              "title": "Happiest Place on Campus",
+              "access": "Public"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                42.96420,
+                85.90464
+              ]
+            }
+          }
+    
